@@ -25,7 +25,7 @@ In conclusion, for novices and for basic GIS work, GUI software seem to be the o
 
 
 ```{r Arcmap Map, echo=FALSE,fig.align="center", fig.cap="Map produced on ArcMap", out.width = '90%'}
-knitr::include_graphics("Arcmap-map.png")
+knitr::include_graphics("Arcmap-map.PNG")
 ```
 
 
