@@ -23,12 +23,14 @@ In conclusion, for novices and for basic GIS work, GUI software seem to be the o
 
 ## Maps
 
+### Map produced on ArcMAp
 
 ```{r Arcmap Map, echo=FALSE,fig.align="center", fig.cap="Map produced on ArcMap", out.width = '90%'}
 knitr::include_graphics("Arcmap-map.PNG")
 ```
 
 
+### Map produced on R
 
 ```{r R Map, echo=FALSE,fig.align='center', fig.cap="Map produced on R", out.width = '90%'}
 knitr::include_graphics("R-Map.PNG")

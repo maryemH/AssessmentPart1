@@ -70,7 +70,11 @@ recommended.
 
 ## Maps
 
+### Map produced on ArcMAp
+
 <img src="Arcmap-map.PNG" title="Map produced on ArcMap" alt="Map produced on ArcMap" width="90%" style="display: block; margin: auto;" />
+
+### Map produced on R
 
 <img src="R-Map.PNG" title="Map produced on R" alt="Map produced on R" width="90%" style="display: block; margin: auto;" />
 
