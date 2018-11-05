@@ -9,7 +9,7 @@ The first striking difference between R and ArcMAp is that R consists of
 writing scripts whereas ArcMap mainly works through mouse-clicks. I
 found the latter to be very useful as I was able to easily zoom the map
 in and out, move it around with the pan, instantly displace and resize
-elements on the map. On the other hand, the lack of this dynamic canvas
+elements on the map. On the other hand, the lack of this functionality
 on R, caused these simple tasks to take longer to execute. For instance,
 to find the right layout on ArcMap, all I had to do is convert items
 like legend into ‘Graphics’ to change their sizes and move them. However
